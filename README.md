@@ -18,4 +18,11 @@ docker run -d \
   --name ros2_unitree_vnc \
   -p 5902:5902 -p 6081:80 \
   ghcr.io/raviteja-t/raviteja_unitree:humble
+```
 
+## Desktop Access
+http://localhost:6081
+
+# Maintainer
+Raviteja Tirumalapudi
+t.raviteja@gmail.com
